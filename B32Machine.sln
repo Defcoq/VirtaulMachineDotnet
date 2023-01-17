@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B32Machine", "B32Machine\B32Machine.csproj", "{878A1AC6-29B2-4CC2-B0AF-46C2B5DC6A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B32Assembler", "B32Assembler\B32Assembler.csproj", "{27EFF44A-9BFC-4539-A410-1B78DE512B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878A1AC6-29B2-4CC2-B0AF-46C2B5DC6A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878A1AC6-29B2-4CC2-B0AF-46C2B5DC6A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878A1AC6-29B2-4CC2-B0AF-46C2B5DC6A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878A1AC6-29B2-4CC2-B0AF-46C2B5DC6A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EFF44A-9BFC-4539-A410-1B78DE512B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EFF44A-9BFC-4539-A410-1B78DE512B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EFF44A-9BFC-4539-A410-1B78DE512B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EFF44A-9BFC-4539-A410-1B78DE512B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAEC818F-AB2B-44FE-BD17-9BD32FC9B1F6}
+	EndGlobalSection
+EndGlobal

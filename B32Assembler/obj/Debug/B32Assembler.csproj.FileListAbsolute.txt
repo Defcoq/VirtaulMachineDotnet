@@ -1,0 +1,9 @@
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\bin\Debug\B32Assembler.exe
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\bin\Debug\B32Assembler.pdb
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.csprojAssemblyReference.cache
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.frmMainForm.resources
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.Properties.Resources.resources
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.csproj.GenerateResource.cache
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.csproj.CoreCompileInputs.cache
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.exe
+C:\Workspace\Repo\donet\b32source\B32Assembler\B32Assembler\obj\Debug\B32Assembler.pdb

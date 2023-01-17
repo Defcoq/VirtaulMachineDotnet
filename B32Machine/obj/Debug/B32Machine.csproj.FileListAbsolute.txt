@@ -1,0 +1,10 @@
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\bin\Debug\B32Machine.exe
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\bin\Debug\B32Machine.pdb
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.csprojAssemblyReference.cache
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.B32Screen.resources
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.MainForm.resources
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.Properties.Resources.resources
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.csproj.GenerateResource.cache
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.csproj.CoreCompileInputs.cache
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.exe
+C:\Workspace\Repo\donet\b32source\B32Machine\B32Machine\obj\Debug\B32Machine.pdb
